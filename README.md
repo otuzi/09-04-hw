@@ -40,6 +40,6 @@
 
 `Скриншот Status > Targets:`
 
-[alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image4.png)
+![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image4.png)
 
 ---
